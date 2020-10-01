@@ -168,3 +168,10 @@ A small application to plot a bar graph from JSON data in Javascript.
 **6) Twitter Bot**
 
 A twitter bot written using NodeJS to randomly retweet and favourite tweets based on a particular topic.
+
+**7) Random Quote Generator
+
+A random quote is generated when you click on the button.
+
+
+
